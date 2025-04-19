@@ -62,11 +62,11 @@ Your 5-10 question survey:
 1. How old are you?
 2. What is your favourite genre of music?
 3. How do you listen to music now? (eg. radio, CDs, streaming)
-4. On a scale of 1-5 (least to most favourite), how much do you enjoy pop music now?
-5. When did you first start listening to music?
+4. In your opinion, what are the top 3 most popular musical artists now?
+5. How old were you when you first started listening to music?
 6. What was your favourite genre of music then?
 7. How did you listen to music then? (eg. radio, CDs, streaming)
-8. On a scale of 1-5 (least to most favourite), how much did you enjoy pop music then?
+8. In your opinion, what were the top 3 most popular musical artists then?
 ```
 
 ## Part B - Survey Evaluation:
@@ -74,7 +74,48 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type
+Stratified probability sampling, with 27 strata generally defined by Census Metropolitan Area (CMA) across the 10 provinces, randomly selected households within each strata, and a single eligible member (aged 15+) surveyed per household.
+
+2. Sample size
+16,149
+
+3. Target population
+All individuals 15 years of age and older living in the ten provinces of Canada, excluding full-time (residing for more than six months) residents of institutions.
+
+4. Sampling frame
+Frame that combines landline and cellular telephone numbers with Statistics Canada's dwelling frame.
+
+5. Survey mode(s) 
+Electronic questionnaire or computer assisted telephone interviewing
+
+6. Timeline
+2018-09-04 to 2018-12-28
+
+7. Response rate
+41.9%
+
+8. Weights
+Samples were first weighed based on the probability that certain households have a higher probability of being selected (household weight), adjusted to represent non-responding telephone numbers. A person weight was then calculated to account for the size of the household above 15 years of age (person weight), adjusted for rejective sampling. Finally, person weights were adjusted for external factors of stratum, age-sex group by province, and income distribution to better reflect the total population.
+
+9. Data processing
+Responses were entered into computers via the same data capture system either by respondents who self-completed the electronic questionnaire, or by interviewers who interviewed respondents by phone. Write-in responses were coded into categories (existing, new, or other).
+
+10. Cleaning, imputation, etc
+Duplicate, non-response, and out-of-scope records were eliminated. Records with missing or incorrect information were corrected deterministically or imputed from other information on the questionnaire where appropriate, using a "donor" record representative of the partial record or a mean imputation from a donor pool. 
+
+11. Sources of error
+- Random sampling error
+- Imperfect coverage
+- Non-response
+- Data processing
+
+12. Limitations, known biases, etc
+Related to sources of error above, if coverage and non-response errors consistently exclude a portion of the population that differs significantly from the rest of the surveyed population, this introduces a systemic bias in the data. Additionally, the survey only captured data from the ten provinces and completely excluded the three territories from the target population, which may not fully reflect responses from all Canadians.
+
+13. Link to documentation and any additional sources used: 
+https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234
+https://www150.statcan.gc.ca/n1/pub/45-25-0001/cat5/c33_2018.zip
 ```
 
 ## Rubric
