@@ -40,30 +40,33 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `3`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of the survey is to investigate how age influences the perception of popular music in adults between the ages 18-65 living in Toronto, both as a snapshot of the sampling population and longitudinally for sampled individuals.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Survey will be delivered via phone call.
+
+Target population: Adults between the ages 18-65 living in Toronto
+Sampling frame: Phone numbers with the area codes 416, 647, or 437 (servicing the City of Toronto)
+Sampling units: Individuals with 416/647/437 area codes 
+Observational units: Individuals between the ages 18-65 with 416/647/437 area codes who answer the phone call
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How old are you?
+2. What is your favourite genre of music?
+3. How do you listen to music now? (eg. radio, CDs, streaming)
+4. On a scale of 1-5 (least to most favourite), how much do you enjoy pop music now?
+5. When did you first start listening to music?
+6. What was your favourite genre of music then?
+7. How did you listen to music then? (eg. radio, CDs, streaming)
+8. On a scale of 1-5 (least to most favourite), how much did you enjoy pop music then?
 ```
 
 ## Part B - Survey Evaluation:
